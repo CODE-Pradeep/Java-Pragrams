@@ -1,7 +1,4 @@
 
-package javaapplication1;
-
-
 import java.util.Scanner;
 public class reverse {
     public static void main(String s[]){
@@ -22,11 +19,6 @@ public class reverse {
          }
          
          System.out.println("the reverse value : "+ rev);
-         
-    
-    
-    
-    
     
     }
     
