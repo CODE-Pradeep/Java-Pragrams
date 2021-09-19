@@ -1,6 +1,4 @@
 
-package javaapplication1;
-
 import java.util.Scanner;
 
 public class oddeven {
@@ -17,11 +15,6 @@ public class oddeven {
          else
              System.out.println("value is odd");
         
-        
-
-
-
-
     }
     
 }
